@@ -7,3 +7,6 @@
 .change-after-feature-3-branch {
   padding: 5px;
 }
+.feature-3-change {
+  border: 1px solid black;
+}
