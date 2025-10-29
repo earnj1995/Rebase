@@ -3,5 +3,8 @@ environments/
 dist/
 .vscode/
 .angular/
-obj/
 appsettings.json
+appsettings.*.json
+.cache/
+obj/
+bin/
